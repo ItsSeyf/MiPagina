@@ -24,7 +24,7 @@ function Hero(){
                         <ButtonPrimary
                         label="Download CV"
                         icon="download"
-                        href="#"/>
+                        href="https://drive.google.com/file/d/13LTZBlSvaokpIHvW6D6dv0srvZVzsu2n/view?usp=sharing"/>
 
                         <ButtonOutline
                         href="#about"
