@@ -45,6 +45,31 @@ const skillItem = [
     label: 'Python',
     desc: 'Backend Development and Desktop Development'
   },
+  {
+    imgSrc: 'https://blog.teamtreehouse.com/wp-content/uploads/2015/05/87a5a0fdc86455c3f94b0b0eebfdb1b9_400x400.png',
+    label: 'Typescript',
+    desc: 'Backend Development and Frontend Development'
+  },
+  {
+    imgSrc: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s',
+    label: 'Tailwind CSS',
+    desc: 'User Interface'
+  },
+  {
+    imgSrc: 'https://www.digitality.es/img-articulos/ampliadas/que-es-nextjs-y-para-que-sirve-1-1697560678.jpg',
+    label: 'NextJs',
+    desc: 'Framework'
+  },
+  {
+    imgSrc: 'https://pbs.twimg.com/profile_images/1798056830041788417/HIapkjDx_400x400.jpg',
+    label: 'Material UI',
+    desc: 'User Interface'
+  },
+  {
+    imgSrc: 'https://www.cdnlogo.com/logos/s/68/sqlite.svg',
+    label: 'SQLlite',
+    desc: 'Database'
+  }
 ];
 function Skill(){
     return(
